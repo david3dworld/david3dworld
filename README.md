@@ -82,7 +82,7 @@
   4. *Full Stack/Backend dev skills*
       Node.js, Express.js, PHP, Laravel 5, MERN/MEVN 
    5. *Programming Languages*
-       GIS , Ceisum js, Lidar.
+       GIS , Cesium js, Lidar.
    6. *As Bonus*
       React Native, Ionic, XR(AR/VR/MR)
 
