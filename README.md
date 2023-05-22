@@ -12,7 +12,7 @@
 <img align="right" src="https://img.shields.io/github/followers/fairyland0926?label=Follow&style=social" />
 <h1 align="center"></h1>
 <p align="center">
-    <img alt="status" src="https://github-readme-stats.vercel.app/api?username=rockstar0711&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&count_private=true" align="center" />
+<!--     <img alt="status" src="https://github-readme-stats.vercel.app/api?username=rockstar0711&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&count_private=true" align="center" /> -->
   <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond7&layout=compact&theme=monokai&count_private=true">  
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
